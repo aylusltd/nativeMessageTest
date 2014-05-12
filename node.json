@@ -1,0 +1,10 @@
+{
+    "name": "com.google.chrome.node.sample",
+    "description": "Chrome Native Messaging API Example Host",
+    "path": "app.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://phjojifgonheeicahnkhklkkhbfjkdfc/",
+        "chrome-extension://hhhfjnllafnghcjapflmplommcfhnnll/"
+    ]
+}

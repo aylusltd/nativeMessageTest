@@ -1,0 +1,13 @@
+{
+    
+    "name" : "Node POC",
+    "version" : "0.0.1",
+    "permissions" : ["nativeMessaging"],
+    "manifest_version": 2,
+    "description": "Send a message to a native application.",
+    "app": {
+        "launch": {
+            "local_path": "main.html"
+         }
+    }
+}

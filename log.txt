@@ -1,0 +1,23 @@
+Bacth File Fired
+    Mon May 12 2014 17:58:25 GMT-0400 (Eastern Daylight Time) Process Launched
+    Mon May 12 2014 17:58:25 GMT-0400 (Eastern Daylight Time) Process exists
+    Mon May 12 2014 17:58:25 GMT-0400 (Eastern Daylight Time) Leaving
+Bye Now
+Bacth File Fired
+    Mon May 12 2014 18:06:21 GMT-0400 (Eastern Daylight Time) Process Launched
+    Mon May 12 2014 18:06:21 GMT-0400 (Eastern Daylight Time) Process exists
+    Mon May 12 2014 18:06:21 GMT-0400 (Eastern Daylight Time) Leaving
+Bye Now
+Bacth File Fired
+    Mon May 12 2014 18:40:08 GMT-0400 (Eastern Daylight Time) Process Launched
+    Mon May 12 2014 18:40:08 GMT-0400 (Eastern Daylight Time) Process exists
+    Mon May 12 2014 18:40:08 GMT-0400 (Eastern Daylight Time) Resume
+    Mon May 12 2014 18:40:08 GMT-0400 (Eastern Daylight Time) Leaving
+    Mon May 12 2014 18:40:10 GMT-0400 (Eastern Daylight Time) <Buffer 61 62 63 0d 0a>
+Bye Now
+Bacth File Fired
+    Mon May 12 2014 18:43:55 GMT-0400 (Eastern Daylight Time) Process Launched
+    Mon May 12 2014 18:43:55 GMT-0400 (Eastern Daylight Time) Process exists
+    Mon May 12 2014 18:43:55 GMT-0400 (Eastern Daylight Time) { [Error: EINVAL, invalid argument] errno: 18, code: 'EINVAL', syscall: 'uv_pipe_open' }
+    Mon May 12 2014 18:43:55 GMT-0400 (Eastern Daylight Time) Leaving
+Bye Now
